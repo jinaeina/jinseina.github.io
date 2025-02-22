@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>江西师范大学校历分享网页</title>
+</head>
+<body>
+    <h1 align="center">Hallo <u>江西师范大学</u></h1>
+    <center><img src="2.png" alt="jxnu校历表">
+    <p><font size="6">更多内容请访问<a href="https://www.jxnu.edu.cn/main.htm">
+        江西师范大学官网</a>！</font> </p></center>
+
+</body>
+</html>
